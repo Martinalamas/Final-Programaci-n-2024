@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1733525484 source:c:\users\martina\onedrive\documentos\programacion\finallamas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"empleo.h"
+
+1733522983 source:c:\users\martina\onedrive\documentos\programacion\finallamas\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"empleado.h"
+
+1733520166 c:\users\martina\onedrive\documentos\programacion\finallamas\empleado.h
+
+1733520619 source:c:\users\martina\onedrive\documentos\programacion\finallamas\empelo.c
+
+1733525562 source:c:\users\martina\onedrive\documentos\programacion\finallamas\empleo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"empleo.h"
+
+1733525444 c:\users\martina\onedrive\documentos\programacion\finallamas\empleo.h
+	"Empleado.h"
+
